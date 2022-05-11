@@ -1,4 +1,4 @@
-<img src="ione.png" width="100%">
+<img src="https://pbs.twimg.com/profile_banners/246306654/1652238848/1500x500" width="100%">
 
 <h1 align="center">Hi 👋, I'm Nicoleta Brinza</h1>
 <h3 align="center">A passionate frontend developer from Chicago, USA</h3>
