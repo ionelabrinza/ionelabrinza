@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=008080&center=true&vCenter=true&lines=Web+Developer;UX/UI+Designer;">
 </p>
-
 <h3 align="center">Contact Me</h3>
 <!-- SOCIALS -->
 <p align="center">
@@ -16,12 +15,14 @@
     <br>
    Creative, results-focused, and analytical <strong>Web Developer</strong> with a unique technical skill set, including front-end development, website design, and digital media.  I create websites with clean designs and customer focused usability. 
   </p>
-
+  <p align="center">
+ I’m working on React and React Native Projects;
+ currently learning Node.js, Express and MongoDB
+  </p>
 <br>
-
-- 🔭 I’m working on **React and React Native Projects**
-
-- 🌱 I’m currently learning **Node.js, Express and MongoDB**
+  <h3 align="center">Code Stats</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ionelabrinza&" alt="ionelabrinza" /></p>
+<br>
 
 <h3 align="center">Technical Skills</h3>
     <p align="center">
