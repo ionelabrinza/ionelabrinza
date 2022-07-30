@@ -17,7 +17,6 @@
   </p>
   <p align="center">
  I’m working on React and React Native Projects;
- currently learning Node.js, Express and MongoDB
   </p>
 <br>
   <h3 align="center">Code Stats</h3>
