@@ -1,4 +1,3 @@
-<img src="https://pbs.twimg.com/profile_banners/246306654/1652238848/1500x500" width="100%">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=008080&center=true&vCenter=true&lines=Web+Developer;UX/UI+Designer;">
 </p>
