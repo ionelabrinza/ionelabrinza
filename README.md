@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/Express.js-008080?style=plastic&logo=express&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/MongoDB-008080?style=plastic&logo=mongodb&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/Figma-008080?style=plastic&logo=figma&logoColor=white" height=25>
-      <img src="https://img.shields.io/badge/Terraform-008080?style=plastic&logo=adobe&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/Terraform-008080?style=plastic&logo=terraform&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/Visual_Studio-008080?style=plastic&logo=visual%20studio&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/GIT-008080?style=plastic&logo=git&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/WordPress-008080?style=plastic&logo=Wordpress&logoColor=white" height=25>
