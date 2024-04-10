@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=008080&center=true&vCenter=true&lines=Web+Developer;UX/UI+Designer;">
-</p>
-<h3 align="center">Contact Me</h3>
-<!-- SOCIALS -->
-<p align="center">
-    <a href="https://twitter.com/brinzaionela"><img src="https://img.shields.io/badge/Twitter-008080?&style=plastic&logo=twitter&logoColor=white" height=25></a>
-    <a href="mailto:ionela.brinza@yahoo.com"><img src="https://img.shields.io/badge/Email-008080?style=plastic&logo=gmail&logoColor=white" height=25></a>
-    <a href="https://www.linkedin.com/in/nicoleta-b-9a11b741/"><img src="https://img.shields.io/badge/LinkedIn-008080?style=plastic&logo=linkedin&logoColor=white" height=25></a>
-    <!-- <a href="https://dev.to/raeplusplus"><img src="https://img.shields.io/badge/Download_Resume-CB4D89?style=plastic&logo=googledrive&logoColor=white" height=25></a> -->
-</p>
+
 
 <p align="center">
     <br>
